@@ -1,0 +1,1 @@
+f = oepn("chapter 9.py/sample.txt" , "r+")

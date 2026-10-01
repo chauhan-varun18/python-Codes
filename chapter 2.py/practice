@@ -1,0 +1,22 @@
+a = 35
+b = 3
+
+print("Remainder" , a % b)
+
+a = int(input("enter number 1;" ))
+b = int(input("enter number 2;"))
+
+print (a>b)
+
+
+a = int(input("enter num. 1:"))
+b = int(input("enter num. 2:"))
+
+print ("avarage of num. 1 or 2 is:" ,(a+b)/2 )
+
+a = int(input("the num. is : "))
+
+print("number's squre is : " ,(a*a)) # ya (a**a)
+
+
+

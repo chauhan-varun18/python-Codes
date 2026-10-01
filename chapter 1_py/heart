@@ -1,0 +1,43 @@
+# from turtle import *
+# color("Red")
+# begin_fill()
+# pensize(10)
+# left(50)
+
+# forward(133)
+# circle(50,200)
+# right(140)
+# circle(50,200)
+# forward(133)
+# end_fill()
+
+from turtle import *
+
+speed(5)
+color("red")
+pensize(5)
+
+begin_fill()
+
+left(50)
+forward(133)
+circle(50, 200)
+right(140)
+circle(50, 200)
+forward(133)
+end_fill()
+
+color("white")
+pensize(6)
+
+left(130)
+forward(60)
+right(40)
+forward(40)
+left(60)
+forward(50)
+right(40)
+forward(40)
+
+hideturtle()
+done()
